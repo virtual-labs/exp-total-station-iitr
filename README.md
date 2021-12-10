@@ -6,7 +6,7 @@
 <b>Discipline | <b> Engineering
 :--|:--|
 <b> Lab | <b> Surveying
-<b> Experiment|     <b> 9. 	Observations of Vertical and Horizontal angles using Total Station.
+<b> Experiment|     <b> 9. Observations of Vertical and Horizontal angles using Total Station.
 
 <h5> About the Experiment : </h5> <br>
 
