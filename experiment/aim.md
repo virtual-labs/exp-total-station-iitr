@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### Measurement of Horizontal and Vertical Angles by using Total Station.

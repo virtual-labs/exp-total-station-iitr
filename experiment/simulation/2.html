@@ -1,0 +1,43 @@
+<html>
+<head>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body onkeydown="getKeyAndMove(event)">
+
+    <div id="main_ob_plot">
+    <button id="ins">INSTRUCTIONS
+    </button>
+       <span id="ins_span"><b>1.</b> There are five objects (flag, pole, house, windmill and tree) placed in the field. Initially plane table is located at position A.<br><br>
+        <b>2.</b> On the left side of the pane, alidade view of objects is also given to see the clear view of the objects.<br><br>
+        <b>3.</b> Click on the object and we will get a telescopic view through alidade and the line is drawn parallel to the line joining the intersection of the cross hairs and the object and the length is determined by actually scaling off the distance between them. <br><br>
+        <b>4.</b> Click on <b>Next Buttton</b> after taking all five observations to move to the position B.<br><br>
+        <b>5.</b> Repeat the Step 3 at B.<br><br>
+        <b>6.</b> After taking all the observations click on <b>Result Button </b>.<br><br>
+        <b>7.</b> Observations are displayed in the graphical form.<br><br>
+        </span>
+
+<img id="alidade_img" src="images\alidade.PNG">
+<img id="stand_img" src="images\stand.png">
+<img id="bench" src="images\benchmark.png">
+<img id="prism_img" src="images\prism.png">
+<img id="cross_view" src="images\cross_view.PNG">
+<img id="readings" src="images\readings.PNG">
+ <img id="tri_img_main" src="images\trimodel.png">
+  <p id="tripod_l">Tripod</p>
+
+<img id="autolevel_main" src="images\automodel_main_a.png">
+  <p id="autolevel_l">Autolevel</p> 
+<a href="index.html"><button id="finish" >FINISH</button></a>
+<button id="view_readings" onclick="view()" >VIEW READINGS</button>
+<button id="st_main" onclick="start()">START</button>
+<button id="rst_main" onclick="location.reload();" >RESET</button>
+</div>
+ 
+<script src="js/main3.js"></script>
+
+</body>
+</html>
