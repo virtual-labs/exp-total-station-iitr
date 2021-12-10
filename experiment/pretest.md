@@ -9,12 +9,12 @@ C   Rotation of line of collimation<br>
 <b>D   Rotation of optical axis</b><br><br>
 
 
-Q2. Which of the following indicates the correct set of the combination of total station?<br>
+Q2.  Where is data stored in total station?<br>
 
-<b>A   Electronic theodolite, EDM</b><br>
-B   Theodolite, compass<br>
-C   Theodolite, EDM<br>
-D   EDM, GPS<br><br>
+<b>A   Micro processor</b><br>
+B   Pen drive<br>
+C   Data card<br>
+D   External hardware<br><br>
 
 
 Q3. Which among the following doesn’t indicate the basic calculation of the total station?<br>
