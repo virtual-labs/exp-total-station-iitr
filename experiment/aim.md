@@ -1,1 +1,1 @@
-#### Measurement of Horizontal and Vertical Angles by using Total Station.
+#### Measurement of horizontal and vertical angles by using total station.

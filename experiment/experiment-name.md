@@ -1,1 +1,1 @@
-## Observations of Vertical and Horizontal angles using Total Station.
+## Observations of vertical and horizontal angles using total station.
