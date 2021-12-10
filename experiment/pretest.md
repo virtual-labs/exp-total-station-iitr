@@ -17,11 +17,11 @@ C   Data card<br>
 D   External hardware<br><br>
 
 
-Q3. Which among the following doesn’t indicate the basic calculation of the total station?<br>
+Q3. Which among the following doesnot indicate the basic calculation of the total station?<br>
 
 A   Horizontal distance<br>
 B   Vertical distance<br>
-C   Co-ordinate calculations<br>
+C   Coordinate calculations<br>
 <b>D   Slope distance</b><br><br>
 
 
