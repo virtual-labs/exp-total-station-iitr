@@ -26,12 +26,12 @@ C   Co-ordinate calculations<br>
 
 
 
-Q4. Which of the following indicates the formula for converting slope distance to horizontal distance?<br>
+Q4. What is the advantage of total station?<br>
 
-A   S = H (sin z)<br>
-<b>B   H = S (sin z)</b><br>
-C   H = S* S (sin z)<br>
-D   H*H = S (sin z)<br><br>
+A   The instruments costly<br>
+<b>B   Greater accuracy in area computation</b><br>
+C   Does not provide field note<br>
+D   Direct observation of sum not possible<br><br>
 
 
 Q5. In which direction it is best to place the total station for obtaining the best output?<br>
